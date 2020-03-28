@@ -1,5 +1,4 @@
 # PiggyBookSystem
-![PiggyBookSystem Banner](https://github.com/Bronzehail45833/PiggyBookSystem/blob/master/Capture.PNG)
 
 Disclaimer: I am not the creator of this plugin I just fixed it the original author is goldentouch74.
 
@@ -15,7 +14,7 @@ Drag the custom enchanted book onto the item.
 
 Dependencies:
 
-In order for this plugin you will need PiggyCustomEnchants and ForAPI.
+In order for this plugin you will need PiggyCustomEnchants and FormAPI.
 
 PiggyCustomEnchants- https://poggit.pmmp.io/p/PiggyCustomEnchants
 
